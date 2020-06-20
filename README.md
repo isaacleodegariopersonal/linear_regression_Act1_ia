@@ -3,7 +3,7 @@ García Estrada Isaac Leodegario
 
 Predicción de presión arterial
 
-##Proceso
+## Proceso
 
 Para realizar este algoritmo de prediccion se baso en tres componentes basicos
 - Funcion de ecuacion lineal:
@@ -22,7 +22,7 @@ Para realizar este algoritmo de prediccion se baso en tres componentes basicos
     <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{\partial}{\partial&space;m}=\frac{2}{n}\sum_{i=1}^{n}-(y_{i}-(mx_{i}&plus;b))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{\partial}{\partial&space;m}=\frac{2}{n}\sum_{i=1}^{n}-(y_{i}-(mx_{i}&plus;b))" title="\frac{\partial}{\partial m}=\frac{2}{n}\sum_{i=1}^{n}-(y_{i}-(mx_{i}+b))" /></a>
 
 
-##Referencias
+## Referencias
 
 Dataset from:
 
